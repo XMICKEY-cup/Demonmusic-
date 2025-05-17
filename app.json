@@ -1,7 +1,7 @@
 {
     "name": "𝚂𝙷𝚄𝙺𝙻𝙰 𝙼𝚄𝚂𝙸𝙲",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/b61227af05544deb76a34.jpg",
+    "logo": "https://graph.org/file/83ebf52e8bbf138620de7.mp4",
     "keywords": [
     "python3",
     "telegram",
@@ -29,12 +29,12 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "mongodb+srv://SHASHANK:STRANGER@shashank.uj7lold.mongodb.net/?retryWrites=true&w=majority",
+        "value": "mongodb+srv://ankitkr88588:nuuub@cluster0.qdqymj0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "6762113050",
+        "value": "8116233078",
         "required": true
       },
       "STRING_SESSION": {
@@ -54,7 +54,7 @@
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "-1002018556839",
+        "value": "-1002511187083",
         "required": true
       }
     },
