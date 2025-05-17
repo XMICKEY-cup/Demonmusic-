@@ -12,7 +12,7 @@ from strings import get_string, helpers
 from SHUKLAMUSIC.utils.stuffs.buttons import BUTTONS
 from SHUKLAMUSIC.utils.stuffs.helper import Helper
 
-SHASHANK_VD = ["https://telegra.ph/file/89c5023101b65f21fb401.mp4",
+wizard_pampa = ["https://telegra.ph/file/89c5023101b65f21fb401.mp4",
           "https://telegra.ph/file/bbc914cce6cce7f607641.mp4",
           "https://telegra.ph/file/abc578ecc222d28a861ba.mp4",
           "https://telegra.ph/file/065f40352707e9b5b7c15.mp4",
