@@ -9,24 +9,24 @@ from pyrogram import filters
 load_dotenv()
 # ------------------------------------
 # -----------------------------------------------------
-API_ID = int(getenv("API_ID"))
-API_HASH = getenv("API_HASH")
+API_ID = int(getenv("27042938"))
+API_HASH = getenv("d66ce4b366c87eee3f0a06c64708c52c")
 # ------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN")
+BOT_TOKEN = getenv("7548816762:AAHTH1bDiOhNqa_O290IzQeOS4dX_QYWVwo")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","i_music_og_bot")
+OWNER_USERNAME = getenv("OWNER_USERNAME","MIKEY_ONI")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "i_music_og_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "X4DemonMusic_bot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "imusic")
+BOT_NAME = getenv("BOT_NAME" , "Dᴇᴍᴏɴ|ᴍᴜsɪᴄ ʙᴏᴛ")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "BIG_PAMPA_PLAYER")
+ASSUSERNAME = getenv("ASSUSERNAME" , "Musical_vibe2l")
 # ---------------------------------------------------------
 
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-MONGO_DB_URI = getenv("MONGO_DB_URI", None)
+MONGO_DB_URI = getenv("mongodb+srv://musicbot78609:N2ZclBnn4SO3ntmL@cluster0.rn3n06g.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0", None)
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002320568249))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002756994128))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 8180921337))
+OWNER_ID = int(getenv("OWNER_ID", 1922300745))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/imusicteam")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/pampa_chat")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/NARUTOSHIPPUDENHINDI_OFFICIAL")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Demon_botsupport")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
